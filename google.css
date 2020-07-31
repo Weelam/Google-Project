@@ -1,0 +1,12 @@
+html {
+    display:grid;
+    height:100%;
+}
+#center {
+    margin: auto;
+}
+#logo {
+    height: 200px;
+    width: auto;
+
+}
